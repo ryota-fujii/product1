@@ -1,0 +1,20 @@
+.group{
+  height: calc(100vw - 120px);
+  width: calc(100vw - 200px);
+  margin: 150px 160px 0px;
+  border: 3px black;
+  &__prof{
+    height: 450px;
+    border: 3px black;
+  }
+  &__event{
+    height: 400px;
+    border: 3px black;
+    text-align: center;
+  }
+  &__boad{
+    height: 600px;
+    background: yellow;
+    border: 3px black;
+  }
+}

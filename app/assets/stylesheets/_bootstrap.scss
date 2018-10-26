@@ -1,0 +1,21 @@
+.jumbotron{
+   background:url(mainmain.jpg) center no-repeat;
+   background-size: cover;
+   min-height: 330px;
+   .container {
+    color:#FFF;
+    .btn-primary{
+      background: #5D99FF;
+      color: #fff;
+    }
+   }
+ }
+
+ .card{
+   display: inline-block;
+   border: solid #C0C0C0;
+   .btn-primary{
+     background: #5D99FF;
+     color: #fff;
+   }
+ }
